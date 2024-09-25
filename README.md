@@ -6,10 +6,10 @@ This GitHub repository contains the source code for a QR code generator website 
 
 ## QR Code Generator Preview
 ![ScreenShot_20240326123656](https://github.com/Harman8815/QR-Code-Generator/assets/115714095/f7711056-bae8-4db4-97f0-1d214a4b42a0)
-## 🤵 Owner
 
-- **Name:** [Harman Deep Singh]
-- **GitHub:** [Harman8815]
+## 🤵 Owner
+- **Name:** Harman Deep Singh
+- **GitHub:** [Harman8815](https://github.com/Harman8815)
 
 ## 🚀 Technologies Used
 
